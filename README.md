@@ -73,6 +73,7 @@ Contains the 50 U.S. state names along with their corresponding X and Y coordina
 
 ### `blank_states_img.gif`
 The blank U.S. map used as the background of the game.
+```
 
 ---
 
